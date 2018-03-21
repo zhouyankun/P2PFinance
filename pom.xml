@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>zyk.Finance.P2P</groupId>
+  <artifactId>Finance_P2P</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Finance_P2P_action</module>
+  	<module>Finance_P2P_cache</module>
+  	<module>Finance_P2P_dao</module>
+  	<module>Finance_P2P_domain</module>
+  	<module>Finance_P2P_home</module>
+  	<module>Finance_P2P_jms</module>
+  	<module>Finance_P2P_management</module>
+  	<module>Finance_P2P_rbac</module>
+  	<module>Finance_P2P_service</module>
+  	<module>Finance_P2P_utils</module>
+  </modules>
+</project>
